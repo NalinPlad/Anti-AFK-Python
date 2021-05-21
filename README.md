@@ -6,6 +6,8 @@ A gui based app that has a few settings that can help stop your computer from go
 This program relies on DearPyGUI `pip install dearpygui` or `pip3 install dearpygui`
 And PyAutoGUI `pip install pyautogui`
 
+## Running
+Once you have all of the dependancies set up, open a command line enter the directory where the file is stored, then run `python AntiAFKPython.py`. A window should pop up giving you access to the control panel where you can change settings and start the movement.
 
 
 <img width="450" alt="License and About page" src="https://user-images.githubusercontent.com/43052612/119201709-4ac68a00-ba44-11eb-9882-2323af44672d.png">
