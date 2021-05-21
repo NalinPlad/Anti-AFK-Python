@@ -8,3 +8,5 @@ And PyAutoGUI `pip install pyautogui`
 
 
 
+<img width="450" alt="License and About page" src="https://user-images.githubusercontent.com/43052612/119201709-4ac68a00-ba44-11eb-9882-2323af44672d.png">
+<img width="449" alt="Control Panel" src="https://user-images.githubusercontent.com/43052612/119201714-4dc17a80-ba44-11eb-8380-33307ae3bfd5.png">
